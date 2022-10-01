@@ -1,9 +1,5 @@
 /*	
-	name: Danlan Chen
-	ID: 29920965
-	start date:	Sept.8th
-	last modified date: Sept. 14th (I have applied for extension)
-	
+
 	This program receives user's command which will include the filename and maybe arguments.
 	It mainly copies and moves file to the specified destination directory. 
 	And when error occurs, it shows different error messages.
